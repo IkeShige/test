@@ -5,8 +5,5 @@ test
 
 追加確認
 
-<<<<<<< HEAD
 masterでの追加
-=======
 issue1での変更
->>>>>>> issue1
