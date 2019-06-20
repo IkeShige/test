@@ -9,3 +9,4 @@ masterでの追加
 issue1での変更
 
 git-pr-releaseのテスト1
+git-pr-releaseのテスト2
